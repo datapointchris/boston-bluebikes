@@ -1,0 +1,1346 @@
+[
+  {
+    "day": "Monday   ",
+    "hour": "12:00 am",
+    "riders_2018": "1574",
+    "riders_2019": "2139",
+    "riders_change": "565",
+    "percent_change": "35.9000 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "01:00 am",
+    "riders_2018": "882",
+    "riders_2019": "1223",
+    "riders_change": "341",
+    "percent_change": "38.6600 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "02:00 am",
+    "riders_2018": "446",
+    "riders_2019": "707",
+    "riders_change": "261",
+    "percent_change": "58.5200 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "03:00 am",
+    "riders_2018": "224",
+    "riders_2019": "289",
+    "riders_change": "65",
+    "percent_change": "29.0200 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "04:00 am",
+    "riders_2018": "347",
+    "riders_2019": "552",
+    "riders_change": "205",
+    "percent_change": "59.0800 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "05:00 am",
+    "riders_2018": "1860",
+    "riders_2019": "2580",
+    "riders_change": "720",
+    "percent_change": "38.7100 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "06:00 am",
+    "riders_2018": "6018",
+    "riders_2019": "8431",
+    "riders_change": "2413",
+    "percent_change": "40.1000 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "07:00 am",
+    "riders_2018": "16947",
+    "riders_2019": "23693",
+    "riders_change": "6746",
+    "percent_change": "39.8100 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "08:00 am",
+    "riders_2018": "29106",
+    "riders_2019": "40835",
+    "riders_change": "11729",
+    "percent_change": "40.3000 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "09:00 am",
+    "riders_2018": "14872",
+    "riders_2019": "22167",
+    "riders_change": "7295",
+    "percent_change": "49.0500 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "10:00 am",
+    "riders_2018": "9116",
+    "riders_2019": "13822",
+    "riders_change": "4706",
+    "percent_change": "51.6200 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "11:00 am",
+    "riders_2018": "9635",
+    "riders_2019": "14630",
+    "riders_change": "4995",
+    "percent_change": "51.8400 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "12:00 pm",
+    "riders_2018": "11498",
+    "riders_2019": "16986",
+    "riders_change": "5488",
+    "percent_change": "47.7300 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "01:00 pm",
+    "riders_2018": "10984",
+    "riders_2019": "16031",
+    "riders_change": "5047",
+    "percent_change": "45.9500 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "02:00 pm",
+    "riders_2018": "10774",
+    "riders_2019": "16408",
+    "riders_change": "5634",
+    "percent_change": "52.2900 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "03:00 pm",
+    "riders_2018": "13406",
+    "riders_2019": "19396",
+    "riders_change": "5990",
+    "percent_change": "44.6800 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "04:00 pm",
+    "riders_2018": "22574",
+    "riders_2019": "32409",
+    "riders_change": "9835",
+    "percent_change": "43.5700 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "05:00 pm",
+    "riders_2018": "33529",
+    "riders_2019": "47914",
+    "riders_change": "14385",
+    "percent_change": "42.9000 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "06:00 pm",
+    "riders_2018": "23178",
+    "riders_2019": "34306",
+    "riders_change": "11128",
+    "percent_change": "48.0100 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "07:00 pm",
+    "riders_2018": "15289",
+    "riders_2019": "22784",
+    "riders_change": "7495",
+    "percent_change": "49.0200 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "08:00 pm",
+    "riders_2018": "10078",
+    "riders_2019": "15081",
+    "riders_change": "5003",
+    "percent_change": "49.6400 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "09:00 pm",
+    "riders_2018": "6854",
+    "riders_2019": "10180",
+    "riders_change": "3326",
+    "percent_change": "48.5300 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "10:00 pm",
+    "riders_2018": "4440",
+    "riders_2019": "6433",
+    "riders_change": "1993",
+    "percent_change": "44.8900 %"
+  },
+  {
+    "day": "Monday   ",
+    "hour": "11:00 pm",
+    "riders_2018": "2401",
+    "riders_2019": "3391",
+    "riders_change": "990",
+    "percent_change": "41.2300 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "12:00 am",
+    "riders_2018": "1175",
+    "riders_2019": "1638",
+    "riders_change": "463",
+    "percent_change": "39.4000 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "01:00 am",
+    "riders_2018": "585",
+    "riders_2019": "849",
+    "riders_change": "264",
+    "percent_change": "45.1300 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "02:00 am",
+    "riders_2018": "354",
+    "riders_2019": "544",
+    "riders_change": "190",
+    "percent_change": "53.6700 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "03:00 am",
+    "riders_2018": "153",
+    "riders_2019": "301",
+    "riders_change": "148",
+    "percent_change": "96.7300 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "04:00 am",
+    "riders_2018": "324",
+    "riders_2019": "498",
+    "riders_change": "174",
+    "percent_change": "53.7000 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "05:00 am",
+    "riders_2018": "2090",
+    "riders_2019": "2951",
+    "riders_change": "861",
+    "percent_change": "41.2000 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "06:00 am",
+    "riders_2018": "7061",
+    "riders_2019": "9355",
+    "riders_change": "2294",
+    "percent_change": "32.4900 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "07:00 am",
+    "riders_2018": "19600",
+    "riders_2019": "25726",
+    "riders_change": "6126",
+    "percent_change": "31.2600 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "08:00 am",
+    "riders_2018": "32890",
+    "riders_2019": "44408",
+    "riders_change": "11518",
+    "percent_change": "35.0200 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "09:00 am",
+    "riders_2018": "16363",
+    "riders_2019": "23132",
+    "riders_change": "6769",
+    "percent_change": "41.3700 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "10:00 am",
+    "riders_2018": "9063",
+    "riders_2019": "13074",
+    "riders_change": "4011",
+    "percent_change": "44.2600 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "11:00 am",
+    "riders_2018": "9359",
+    "riders_2019": "13504",
+    "riders_change": "4145",
+    "percent_change": "44.2900 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "12:00 pm",
+    "riders_2018": "10889",
+    "riders_2019": "15667",
+    "riders_change": "4778",
+    "percent_change": "43.8800 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "01:00 pm",
+    "riders_2018": "10147",
+    "riders_2019": "14889",
+    "riders_change": "4742",
+    "percent_change": "46.7300 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "02:00 pm",
+    "riders_2018": "9816",
+    "riders_2019": "14801",
+    "riders_change": "4985",
+    "percent_change": "50.7800 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "03:00 pm",
+    "riders_2018": "12016",
+    "riders_2019": "18479",
+    "riders_change": "6463",
+    "percent_change": "53.7900 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "04:00 pm",
+    "riders_2018": "22270",
+    "riders_2019": "33023",
+    "riders_change": "10753",
+    "percent_change": "48.2800 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "05:00 pm",
+    "riders_2018": "33838",
+    "riders_2019": "51038",
+    "riders_change": "17200",
+    "percent_change": "50.8300 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "06:00 pm",
+    "riders_2018": "24302",
+    "riders_2019": "36914",
+    "riders_change": "12612",
+    "percent_change": "51.9000 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "07:00 pm",
+    "riders_2018": "15609",
+    "riders_2019": "24097",
+    "riders_change": "8488",
+    "percent_change": "54.3800 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "08:00 pm",
+    "riders_2018": "10967",
+    "riders_2019": "15975",
+    "riders_change": "5008",
+    "percent_change": "45.6600 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "09:00 pm",
+    "riders_2018": "8002",
+    "riders_2019": "11627",
+    "riders_change": "3625",
+    "percent_change": "45.3000 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "10:00 pm",
+    "riders_2018": "5453",
+    "riders_2019": "7740",
+    "riders_change": "2287",
+    "percent_change": "41.9400 %"
+  },
+  {
+    "day": "Tuesday  ",
+    "hour": "11:00 pm",
+    "riders_2018": "2835",
+    "riders_2019": "4225",
+    "riders_change": "1390",
+    "percent_change": "49.0300 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "12:00 am",
+    "riders_2018": "1450",
+    "riders_2019": "1850",
+    "riders_change": "400",
+    "percent_change": "27.5900 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "01:00 am",
+    "riders_2018": "737",
+    "riders_2019": "1006",
+    "riders_change": "269",
+    "percent_change": "36.5000 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "02:00 am",
+    "riders_2018": "386",
+    "riders_2019": "595",
+    "riders_change": "209",
+    "percent_change": "54.1500 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "03:00 am",
+    "riders_2018": "207",
+    "riders_2019": "235",
+    "riders_change": "28",
+    "percent_change": "13.5300 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "04:00 am",
+    "riders_2018": "369",
+    "riders_2019": "482",
+    "riders_change": "113",
+    "percent_change": "30.6200 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "05:00 am",
+    "riders_2018": "2144",
+    "riders_2019": "3054",
+    "riders_change": "910",
+    "percent_change": "42.4400 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "06:00 am",
+    "riders_2018": "7146",
+    "riders_2019": "9851",
+    "riders_change": "2705",
+    "percent_change": "37.8500 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "07:00 am",
+    "riders_2018": "20036",
+    "riders_2019": "27190",
+    "riders_change": "7154",
+    "percent_change": "35.7100 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "08:00 am",
+    "riders_2018": "33162",
+    "riders_2019": "46245",
+    "riders_change": "13083",
+    "percent_change": "39.4500 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "09:00 am",
+    "riders_2018": "17197",
+    "riders_2019": "24618",
+    "riders_change": "7421",
+    "percent_change": "43.1500 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "10:00 am",
+    "riders_2018": "10189",
+    "riders_2019": "13843",
+    "riders_change": "3654",
+    "percent_change": "35.8600 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "11:00 am",
+    "riders_2018": "10582",
+    "riders_2019": "14506",
+    "riders_change": "3924",
+    "percent_change": "37.0800 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "12:00 pm",
+    "riders_2018": "12530",
+    "riders_2019": "16651",
+    "riders_change": "4121",
+    "percent_change": "32.8900 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "01:00 pm",
+    "riders_2018": "11723",
+    "riders_2019": "15868",
+    "riders_change": "4145",
+    "percent_change": "35.3600 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "02:00 pm",
+    "riders_2018": "11097",
+    "riders_2019": "15778",
+    "riders_change": "4681",
+    "percent_change": "42.1800 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "03:00 pm",
+    "riders_2018": "13604",
+    "riders_2019": "19441",
+    "riders_change": "5837",
+    "percent_change": "42.9100 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "04:00 pm",
+    "riders_2018": "24554",
+    "riders_2019": "32143",
+    "riders_change": "7589",
+    "percent_change": "30.9100 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "05:00 pm",
+    "riders_2018": "37229",
+    "riders_2019": "47938",
+    "riders_change": "10709",
+    "percent_change": "28.7700 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "06:00 pm",
+    "riders_2018": "26096",
+    "riders_2019": "34801",
+    "riders_change": "8705",
+    "percent_change": "33.3600 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "07:00 pm",
+    "riders_2018": "17850",
+    "riders_2019": "23982",
+    "riders_change": "6132",
+    "percent_change": "34.3500 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "08:00 pm",
+    "riders_2018": "11862",
+    "riders_2019": "15982",
+    "riders_change": "4120",
+    "percent_change": "34.7300 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "09:00 pm",
+    "riders_2018": "8809",
+    "riders_2019": "11438",
+    "riders_change": "2629",
+    "percent_change": "29.8400 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "10:00 pm",
+    "riders_2018": "5782",
+    "riders_2019": "7696",
+    "riders_change": "1914",
+    "percent_change": "33.1000 %"
+  },
+  {
+    "day": "Wednesday",
+    "hour": "11:00 pm",
+    "riders_2018": "3744",
+    "riders_2019": "4228",
+    "riders_change": "484",
+    "percent_change": "12.9300 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "12:00 am",
+    "riders_2018": "1613",
+    "riders_2019": "2006",
+    "riders_change": "393",
+    "percent_change": "24.3600 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "01:00 am",
+    "riders_2018": "779",
+    "riders_2019": "1085",
+    "riders_change": "306",
+    "percent_change": "39.2800 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "02:00 am",
+    "riders_2018": "458",
+    "riders_2019": "617",
+    "riders_change": "159",
+    "percent_change": "34.7200 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "03:00 am",
+    "riders_2018": "208",
+    "riders_2019": "271",
+    "riders_change": "63",
+    "percent_change": "30.2900 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "04:00 am",
+    "riders_2018": "337",
+    "riders_2019": "454",
+    "riders_change": "117",
+    "percent_change": "34.7200 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "05:00 am",
+    "riders_2018": "1866",
+    "riders_2019": "2690",
+    "riders_change": "824",
+    "percent_change": "44.1600 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "06:00 am",
+    "riders_2018": "6821",
+    "riders_2019": "8769",
+    "riders_change": "1948",
+    "percent_change": "28.5600 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "07:00 am",
+    "riders_2018": "18982",
+    "riders_2019": "24613",
+    "riders_change": "5631",
+    "percent_change": "29.6600 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "08:00 am",
+    "riders_2018": "33130",
+    "riders_2019": "42251",
+    "riders_change": "9121",
+    "percent_change": "27.5300 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "09:00 am",
+    "riders_2018": "17252",
+    "riders_2019": "23309",
+    "riders_change": "6057",
+    "percent_change": "35.1100 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "10:00 am",
+    "riders_2018": "9903",
+    "riders_2019": "13435",
+    "riders_change": "3532",
+    "percent_change": "35.6700 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "11:00 am",
+    "riders_2018": "10711",
+    "riders_2019": "14129",
+    "riders_change": "3418",
+    "percent_change": "31.9100 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "12:00 pm",
+    "riders_2018": "12634",
+    "riders_2019": "16206",
+    "riders_change": "3572",
+    "percent_change": "28.2700 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "01:00 pm",
+    "riders_2018": "11666",
+    "riders_2019": "15680",
+    "riders_change": "4014",
+    "percent_change": "34.4100 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "02:00 pm",
+    "riders_2018": "11503",
+    "riders_2019": "15909",
+    "riders_change": "4406",
+    "percent_change": "38.3000 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "03:00 pm",
+    "riders_2018": "13866",
+    "riders_2019": "19746",
+    "riders_change": "5880",
+    "percent_change": "42.4100 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "04:00 pm",
+    "riders_2018": "23869",
+    "riders_2019": "33814",
+    "riders_change": "9945",
+    "percent_change": "41.6600 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "05:00 pm",
+    "riders_2018": "34912",
+    "riders_2019": "47861",
+    "riders_change": "12949",
+    "percent_change": "37.0900 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "06:00 pm",
+    "riders_2018": "25004",
+    "riders_2019": "34991",
+    "riders_change": "9987",
+    "percent_change": "39.9400 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "07:00 pm",
+    "riders_2018": "16657",
+    "riders_2019": "24152",
+    "riders_change": "7495",
+    "percent_change": "45.0000 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "08:00 pm",
+    "riders_2018": "11965",
+    "riders_2019": "16912",
+    "riders_change": "4947",
+    "percent_change": "41.3500 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "09:00 pm",
+    "riders_2018": "8520",
+    "riders_2019": "12746",
+    "riders_change": "4226",
+    "percent_change": "49.6000 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "10:00 pm",
+    "riders_2018": "6397",
+    "riders_2019": "8924",
+    "riders_change": "2527",
+    "percent_change": "39.5000 %"
+  },
+  {
+    "day": "Thursday ",
+    "hour": "11:00 pm",
+    "riders_2018": "3647",
+    "riders_2019": "6009",
+    "riders_change": "2362",
+    "percent_change": "64.7700 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "12:00 am",
+    "riders_2018": "2051",
+    "riders_2019": "2911",
+    "riders_change": "860",
+    "percent_change": "41.9300 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "01:00 am",
+    "riders_2018": "1049",
+    "riders_2019": "1596",
+    "riders_change": "547",
+    "percent_change": "52.1400 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "02:00 am",
+    "riders_2018": "640",
+    "riders_2019": "977",
+    "riders_change": "337",
+    "percent_change": "52.6600 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "03:00 am",
+    "riders_2018": "268",
+    "riders_2019": "392",
+    "riders_change": "124",
+    "percent_change": "46.2700 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "04:00 am",
+    "riders_2018": "327",
+    "riders_2019": "486",
+    "riders_change": "159",
+    "percent_change": "48.6200 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "05:00 am",
+    "riders_2018": "1709",
+    "riders_2019": "2292",
+    "riders_change": "583",
+    "percent_change": "34.1100 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "06:00 am",
+    "riders_2018": "5954",
+    "riders_2019": "7623",
+    "riders_change": "1669",
+    "percent_change": "28.0300 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "07:00 am",
+    "riders_2018": "16401",
+    "riders_2019": "22006",
+    "riders_change": "5605",
+    "percent_change": "34.1700 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "08:00 am",
+    "riders_2018": "29270",
+    "riders_2019": "40942",
+    "riders_change": "11672",
+    "percent_change": "39.8800 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "09:00 am",
+    "riders_2018": "16452",
+    "riders_2019": "23453",
+    "riders_change": "7001",
+    "percent_change": "42.5500 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "10:00 am",
+    "riders_2018": "10638",
+    "riders_2019": "14968",
+    "riders_change": "4330",
+    "percent_change": "40.7000 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "11:00 am",
+    "riders_2018": "11442",
+    "riders_2019": "16426",
+    "riders_change": "4984",
+    "percent_change": "43.5600 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "12:00 pm",
+    "riders_2018": "13698",
+    "riders_2019": "19248",
+    "riders_change": "5550",
+    "percent_change": "40.5200 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "01:00 pm",
+    "riders_2018": "13779",
+    "riders_2019": "19387",
+    "riders_change": "5608",
+    "percent_change": "40.7000 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "02:00 pm",
+    "riders_2018": "14012",
+    "riders_2019": "19198",
+    "riders_change": "5186",
+    "percent_change": "37.0100 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "03:00 pm",
+    "riders_2018": "17000",
+    "riders_2019": "23585",
+    "riders_change": "6585",
+    "percent_change": "38.7400 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "04:00 pm",
+    "riders_2018": "26480",
+    "riders_2019": "34457",
+    "riders_change": "7977",
+    "percent_change": "30.1200 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "05:00 pm",
+    "riders_2018": "30648",
+    "riders_2019": "42340",
+    "riders_change": "11692",
+    "percent_change": "38.1500 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "06:00 pm",
+    "riders_2018": "20949",
+    "riders_2019": "30518",
+    "riders_change": "9569",
+    "percent_change": "45.6800 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "07:00 pm",
+    "riders_2018": "14436",
+    "riders_2019": "21277",
+    "riders_change": "6841",
+    "percent_change": "47.3900 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "08:00 pm",
+    "riders_2018": "9842",
+    "riders_2019": "14648",
+    "riders_change": "4806",
+    "percent_change": "48.8300 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "09:00 pm",
+    "riders_2018": "7774",
+    "riders_2019": "10932",
+    "riders_change": "3158",
+    "percent_change": "40.6200 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "10:00 pm",
+    "riders_2018": "6617",
+    "riders_2019": "9327",
+    "riders_change": "2710",
+    "percent_change": "40.9600 %"
+  },
+  {
+    "day": "Friday   ",
+    "hour": "11:00 pm",
+    "riders_2018": "4793",
+    "riders_2019": "6479",
+    "riders_change": "1686",
+    "percent_change": "35.1800 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "12:00 am",
+    "riders_2018": "3230",
+    "riders_2019": "4668",
+    "riders_change": "1438",
+    "percent_change": "44.5200 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "01:00 am",
+    "riders_2018": "2516",
+    "riders_2019": "3751",
+    "riders_change": "1235",
+    "percent_change": "49.0900 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "02:00 am",
+    "riders_2018": "1741",
+    "riders_2019": "2357",
+    "riders_change": "616",
+    "percent_change": "35.3800 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "03:00 am",
+    "riders_2018": "586",
+    "riders_2019": "797",
+    "riders_change": "211",
+    "percent_change": "36.0100 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "04:00 am",
+    "riders_2018": "367",
+    "riders_2019": "458",
+    "riders_change": "91",
+    "percent_change": "24.8000 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "05:00 am",
+    "riders_2018": "481",
+    "riders_2019": "762",
+    "riders_change": "281",
+    "percent_change": "58.4200 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "06:00 am",
+    "riders_2018": "1135",
+    "riders_2019": "1620",
+    "riders_change": "485",
+    "percent_change": "42.7300 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "07:00 am",
+    "riders_2018": "2891",
+    "riders_2019": "3904",
+    "riders_change": "1013",
+    "percent_change": "35.0400 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "08:00 am",
+    "riders_2018": "5710",
+    "riders_2019": "8049",
+    "riders_change": "2339",
+    "percent_change": "40.9600 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "09:00 am",
+    "riders_2018": "8861",
+    "riders_2019": "12955",
+    "riders_change": "4094",
+    "percent_change": "46.2000 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "10:00 am",
+    "riders_2018": "12208",
+    "riders_2019": "17646",
+    "riders_change": "5438",
+    "percent_change": "44.5400 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "11:00 am",
+    "riders_2018": "14567",
+    "riders_2019": "22454",
+    "riders_change": "7887",
+    "percent_change": "54.1400 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "12:00 pm",
+    "riders_2018": "16367",
+    "riders_2019": "26092",
+    "riders_change": "9725",
+    "percent_change": "59.4200 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "01:00 pm",
+    "riders_2018": "17361",
+    "riders_2019": "26840",
+    "riders_change": "9479",
+    "percent_change": "54.6000 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "02:00 pm",
+    "riders_2018": "17344",
+    "riders_2019": "27132",
+    "riders_change": "9788",
+    "percent_change": "56.4300 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "03:00 pm",
+    "riders_2018": "17341",
+    "riders_2019": "27428",
+    "riders_change": "10087",
+    "percent_change": "58.1700 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "04:00 pm",
+    "riders_2018": "17214",
+    "riders_2019": "26447",
+    "riders_change": "9233",
+    "percent_change": "53.6400 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "05:00 pm",
+    "riders_2018": "16116",
+    "riders_2019": "24997",
+    "riders_change": "8881",
+    "percent_change": "55.1100 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "06:00 pm",
+    "riders_2018": "14471",
+    "riders_2019": "22568",
+    "riders_change": "8097",
+    "percent_change": "55.9500 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "07:00 pm",
+    "riders_2018": "11797",
+    "riders_2019": "18175",
+    "riders_change": "6378",
+    "percent_change": "54.0600 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "08:00 pm",
+    "riders_2018": "8657",
+    "riders_2019": "13159",
+    "riders_change": "4502",
+    "percent_change": "52.0000 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "09:00 pm",
+    "riders_2018": "6888",
+    "riders_2019": "10901",
+    "riders_change": "4013",
+    "percent_change": "58.2600 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "10:00 pm",
+    "riders_2018": "5918",
+    "riders_2019": "9059",
+    "riders_change": "3141",
+    "percent_change": "53.0800 %"
+  },
+  {
+    "day": "Saturday ",
+    "hour": "11:00 pm",
+    "riders_2018": "4377",
+    "riders_2019": "6805",
+    "riders_change": "2428",
+    "percent_change": "55.4700 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "12:00 am",
+    "riders_2018": "3288",
+    "riders_2019": "5208",
+    "riders_change": "1920",
+    "percent_change": "58.3900 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "01:00 am",
+    "riders_2018": "2785",
+    "riders_2019": "4741",
+    "riders_change": "1956",
+    "percent_change": "70.2300 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "02:00 am",
+    "riders_2018": "1943",
+    "riders_2019": "2955",
+    "riders_change": "1012",
+    "percent_change": "52.0800 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "03:00 am",
+    "riders_2018": "571",
+    "riders_2019": "793",
+    "riders_change": "222",
+    "percent_change": "38.8800 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "04:00 am",
+    "riders_2018": "268",
+    "riders_2019": "464",
+    "riders_change": "196",
+    "percent_change": "73.1300 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "05:00 am",
+    "riders_2018": "421",
+    "riders_2019": "736",
+    "riders_change": "315",
+    "percent_change": "74.8200 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "06:00 am",
+    "riders_2018": "911",
+    "riders_2019": "1534",
+    "riders_change": "623",
+    "percent_change": "68.3900 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "07:00 am",
+    "riders_2018": "1935",
+    "riders_2019": "3028",
+    "riders_change": "1093",
+    "percent_change": "56.4900 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "08:00 am",
+    "riders_2018": "4500",
+    "riders_2019": "7129",
+    "riders_change": "2629",
+    "percent_change": "58.4200 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "09:00 am",
+    "riders_2018": "7620",
+    "riders_2019": "12035",
+    "riders_change": "4415",
+    "percent_change": "57.9400 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "10:00 am",
+    "riders_2018": "11093",
+    "riders_2019": "16830",
+    "riders_change": "5737",
+    "percent_change": "51.7200 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "11:00 am",
+    "riders_2018": "13401",
+    "riders_2019": "20140",
+    "riders_change": "6739",
+    "percent_change": "50.2900 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "12:00 pm",
+    "riders_2018": "15646",
+    "riders_2019": "22816",
+    "riders_change": "7170",
+    "percent_change": "45.8300 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "01:00 pm",
+    "riders_2018": "16761",
+    "riders_2019": "24356",
+    "riders_change": "7595",
+    "percent_change": "45.3100 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "02:00 pm",
+    "riders_2018": "16736",
+    "riders_2019": "23920",
+    "riders_change": "7184",
+    "percent_change": "42.9300 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "03:00 pm",
+    "riders_2018": "16848",
+    "riders_2019": "23682",
+    "riders_change": "6834",
+    "percent_change": "40.5600 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "04:00 pm",
+    "riders_2018": "16426",
+    "riders_2019": "24073",
+    "riders_change": "7647",
+    "percent_change": "46.5500 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "05:00 pm",
+    "riders_2018": "15527",
+    "riders_2019": "22860",
+    "riders_change": "7333",
+    "percent_change": "47.2300 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "06:00 pm",
+    "riders_2018": "13780",
+    "riders_2019": "20821",
+    "riders_change": "7041",
+    "percent_change": "51.1000 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "07:00 pm",
+    "riders_2018": "10698",
+    "riders_2019": "15772",
+    "riders_change": "5074",
+    "percent_change": "47.4300 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "08:00 pm",
+    "riders_2018": "7506",
+    "riders_2019": "12009",
+    "riders_change": "4503",
+    "percent_change": "59.9900 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "09:00 pm",
+    "riders_2018": "5498",
+    "riders_2019": "8460",
+    "riders_change": "2962",
+    "percent_change": "53.8700 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "10:00 pm",
+    "riders_2018": "4043",
+    "riders_2019": "6565",
+    "riders_change": "2522",
+    "percent_change": "62.3800 %"
+  },
+  {
+    "day": "Sunday   ",
+    "hour": "11:00 pm",
+    "riders_2018": "2850",
+    "riders_2019": "4276",
+    "riders_change": "1426",
+    "percent_change": "50.0400 %"
+  }
+]
